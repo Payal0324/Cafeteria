@@ -72,6 +72,7 @@ def discounted_price(price, discount):
 
 
 def main():
+    # Read one day from the user and show the special or no-special result.
     print_menu()
     day = input("Enter a day of the week: ")
 
